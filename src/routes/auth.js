@@ -5,7 +5,7 @@ const {pool} = require("../db");
 
 
 const router = express.Router();
-
+// por que no se peude subir
 // =============================================
 // POST para crear usuario siendo admin
 // body : {username, password, nombre, roles}
